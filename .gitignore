@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+*.env
+*.venv
+
+# Modelos exportados
+*.pkl
+*.joblib
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb~
+
+# VSCode settings
+.vscode/
+
+# Frontend build
+node_modules/
+dist/
+build/
+
+# Logs e temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Sistema
+Thumbs.db
+
+# Arquivos locais de deploy
+.env.local
+.env.production
+.env.development
+
+# Sistema de cache Python
+pip-wheel-metadata/
+__pypackages__/
+
+# Arquivos de exportação
+*.zip
+*.tar.gz
+*.egg-info/
+
+# http-server PID/temp
+frontend/.cache/
