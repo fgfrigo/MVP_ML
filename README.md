@@ -19,8 +19,7 @@ Versão usada: `winequality-red.csv` (reagrupada para 3 classes)
 
 Você pode abrir e testar o notebook diretamente no Google Colab:
 
-[🔗 Acessar no Google Colab](https://colab.research.google.com/drive/1QbzaCzBulfWjRMvWe_gu8p3iBRz_2YDu?usp=sharing)
-
+[🔗 Acessar no Google Colab](https://colab.research.google.com/drive/1wlA6TkPp3Ib4rsA7fkpTQIj1wOihEYV5#scrollTo=b4ca0c579b361942)
 ---
 
 ## 🧠 Backend - FastAPI
